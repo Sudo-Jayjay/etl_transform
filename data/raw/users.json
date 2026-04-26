@@ -1,0 +1,5 @@
+[
+  { "name": "  john doe ", "age": "25", "country": "ph" },
+  { "name": "JANE SMITH", "age": "30", "country": "us" },
+  { "name": "mike", "age": "", "country": "ph" }
+]
